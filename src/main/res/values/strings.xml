@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Intonation</string>
+    <string name="page1_name">用户登录/注册</string>
+    <string name="line1_name">user name</string>
+    <string name="line2_name">password</string>
+    <string name="button_name">登录/注册</string>
+    <string name="local_playlist_search">查找乐谱</string>
+    <string name="local_playlist_title">本地歌单</string>
+    <string name="adapter_txt">123</string>
+
+
+</resources>
